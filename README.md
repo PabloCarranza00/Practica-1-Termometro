@@ -1,4 +1,4 @@
-# Practica-1-Termometro
+# Lm35
 Pablo Carranza Moreno
 float V=0.0;
 float T=0.0;
